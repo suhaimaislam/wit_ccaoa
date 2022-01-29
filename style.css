@@ -1,0 +1,18 @@
+.is-style-padded-block {
+    padding: 10px;
+}
+.is-style-border-radius {
+    color: rgb(0, 0, 0);
+    border: solid 2px;
+    border-radius: 8px;
+}
+.is-style-left-block {
+    display: block;
+    position: relative; 
+    right: 20%;
+}
+.is-style-right-block {
+    display: block;
+    position: relative; 
+    left: 20%;
+}
